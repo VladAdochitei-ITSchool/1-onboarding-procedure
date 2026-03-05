@@ -2,7 +2,7 @@
 Procedura de onboarding a cursantilor pentru mediul de Github.
 
 > Referinte:
-> - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
+> https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
 > - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 > - https://www.markdownguide.org/extended-syntax/
 
@@ -82,5 +82,5 @@ git remote add origin git@github.com:username/repo.git
 git push -u origin main
 ```
 
+alta modificare
 
-modificare 
