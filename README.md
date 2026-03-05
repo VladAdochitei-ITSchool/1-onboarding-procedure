@@ -46,6 +46,18 @@ Se adauga cheia privata in agentul de ssh:
 ssh-add ~/.ssh/github_access_key
 ```
 
+## Pasul 4 
+Adaugarea cheii ssh create in contul de github (Autorizarea acesteia)
+
+![1](./assets/1.png)
+
+![2](./assets/2.png)
+
+![3](./assets/3.png)
+
+![4](./assets/4.png)
+
+
 ---
 
 ## SSH configuration file for Github and other SSH server accesss
