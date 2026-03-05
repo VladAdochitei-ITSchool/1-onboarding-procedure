@@ -1,0 +1,17 @@
+*   d54b034 (HEAD -> main) Merge branch 'branch-nou' Se merge-uieste
+|\  
+* | e0ce9a8 Squashed all code into one commit
+| | * fcd92ef (din-branch-now) ADded 1234
+| |/  
+| | * 0f1e5ce (ultimul-branch) Added smth
+| |/  
+|/  
+* d4018c0 Added master
+* f9ac48a with main.py
+* 84f0615 without main.py
+* 83f5566 add something
+* 521db40 feat(library): Added sum code
+* d1a3738 Added sum calculation
+* 489be36 Added first two numbers
+* f58c484 TK-123:  Added main.py
+* a6c37b9 First commit
